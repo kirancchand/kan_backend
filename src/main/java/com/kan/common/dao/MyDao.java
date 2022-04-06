@@ -8,7 +8,7 @@ import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import com.kan.admin.dao.SQLSelectorWebService;
+import com.kan.common.dao.SQLSelectorWebService;
 
 @Repository
 public class MyDao {
