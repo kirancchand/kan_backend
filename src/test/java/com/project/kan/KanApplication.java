@@ -1,10 +1,10 @@
-package com.kan.admin;
+package com.project.kan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KanAdminApplicationTests {
+class KanApplication {
 
 	@Test
 	void contextLoads() {
